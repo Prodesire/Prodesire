@@ -8,7 +8,7 @@ Currently I'm one of the producers of PyCon China.
 
 ## ✨ Sites
 
-- Blog: <https://prodesire.cn/>
+- Blog: <https://prodesire.cn>
 - GitHub: <https://github.com/Prodesire>
 - Zhihu: <https://zhuanlan.zhihu.com/prodesire>
 - WeChat Public Account: Prodesire
