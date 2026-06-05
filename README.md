@@ -14,7 +14,7 @@ I work on infrastructure tooling for Alibaba Cloud, including [iac-code](https:/
 
 <table>
   <tr>
-    <td valign="top" width="32%">
+    <td valign="top" width="24%">
       <h3>Stack</h3>
       <p>
         <a href="https://www.python.org/"><img alt="Python" src="https://skillicons.dev/icons?i=python&theme=light" /></a><a href="https://go.dev/"><img alt="Go" src="https://skillicons.dev/icons?i=go&theme=light" /></a><a href="https://mojolang.org/"><img alt="Mojo" src="https://go-skill-icons.vercel.app/api/icons?i=mojo" /></a>
@@ -24,7 +24,7 @@ I work on infrastructure tooling for Alibaba Cloud, including [iac-code](https:/
         <a href="https://www.alibabacloud.com/"><img alt="Alibaba Cloud" width="48" height="48" src="https://cdn.simpleicons.org/alibabacloud/FF6A00" /></a><a href="https://aws.amazon.com/"><img alt="AWS" src="https://skillicons.dev/icons?i=aws&theme=light" /></a>
       </p>
     </td>
-    <td valign="top" width="68%">
+    <td valign="top" width="76%">
       <h3>GitHub</h3>
       <p>
         <img alt="GitHub stats" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prodesire&theme=github" />
