@@ -17,11 +17,11 @@ I work on infrastructure tooling for Alibaba Cloud, including [iac-code](https:/
     <td valign="top" width="32%">
       <h3>Stack</h3>
       <p>
-        <a href="https://www.python.org/"><img alt="Python" src="https://skillicons.dev/icons?i=python&theme=light" /></a><a href="https://go.dev/"><img alt="Go" src="https://skillicons.dev/icons?i=go&theme=light" /></a><a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts&theme=light" /></a><a href="https://mojolang.org/"><img alt="Mojo" src="https://go-skill-icons.vercel.app/api/icons?i=mojo" /></a>
+        <a href="https://www.python.org/"><img alt="Python" src="https://skillicons.dev/icons?i=python&theme=light" /></a><a href="https://go.dev/"><img alt="Go" src="https://skillicons.dev/icons?i=go&theme=light" /></a><a href="https://mojolang.org/"><img alt="Mojo" src="https://go-skill-icons.vercel.app/api/icons?i=mojo" /></a>
         <br /><br />
-        <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi&theme=light" /></a><a href="https://react.dev/"><img alt="React" src="https://skillicons.dev/icons?i=react&theme=light" /></a><a href="https://nextjs.org/"><img alt="Next.js" src="https://skillicons.dev/icons?i=nextjs&theme=light" /></a>
+        <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi&theme=light" /></a><a href="https://www.terraform.io/"><img alt="Terraform" src="https://skillicons.dev/icons?i=terraform&theme=light" /></a>
         <br /><br />
-        <a href="https://www.terraform.io/"><img alt="Terraform" src="https://skillicons.dev/icons?i=terraform&theme=light" /></a><a href="https://www.docker.com/"><img alt="Docker" src="https://skillicons.dev/icons?i=docker&theme=light" /></a><a href="https://www.alibabacloud.com/"><img alt="Alibaba Cloud" width="48" height="48" src="https://cdn.simpleicons.org/alibabacloud/FF6A00" /></a><a href="https://aws.amazon.com/"><img alt="AWS" src="https://skillicons.dev/icons?i=aws&theme=light" /></a><a href="https://github.com/features/actions"><img alt="GitHub Actions" src="https://skillicons.dev/icons?i=githubactions&theme=light" /></a><a href="https://git-scm.com/"><img alt="Git" src="https://skillicons.dev/icons?i=git&theme=light" /></a>
+        <a href="https://www.alibabacloud.com/"><img alt="Alibaba Cloud" width="48" height="48" src="https://cdn.simpleicons.org/alibabacloud/FF6A00" /></a><a href="https://aws.amazon.com/"><img alt="AWS" src="https://skillicons.dev/icons?i=aws&theme=light" /></a>
       </p>
     </td>
     <td valign="top" width="68%">
